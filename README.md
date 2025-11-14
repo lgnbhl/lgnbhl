@@ -4,14 +4,15 @@ Some R packages I developed:
 
 **R Shiny**
 - [reactRouter](https://felixluginbuhl.com/reactRouter/): share url pages using ‘React Router’ in ‘shiny’ and ‘Quarto’ 
-- [muiMaterial](https://felixluginbuhl.com/muiMaterial/): an R wrapper around Material UI React library from MUI.
 - [aos](https://felixluginbuhl.com/aos/): animate on Scroll Library for Shiny.
 - [aniview](https://felixluginbuhl.com/aniview/): animate Shiny content when it comes into view
 - [scroller](https://felixluginbuhl.com/scroller/): Scroll to any element in your Shiny apps 
 - [gotop](https://felixluginbuhl.com/gotop/): add a scroll back to top icon to R Markdown and Shiny apps
 
-**Data export**
+**Data visualization**
 - [xlcharts](https://felixluginbuhl.com/xlcharts/): create native Excel charts and work with Microsoft Excel files 
+- [muiMaterial](https://felixluginbuhl.com/muiMaterial/): use MUI Material UI React library from R
+- [muiTreeView](https://felixluginbuhl.com/muiTreeView/): use MUI X Tree View React components from R
 
 **Data access**
 - [BFS](https://felixluginbuhl.com/BFS/): search and download data from the Swiss Federal Statistical Office
