@@ -4,7 +4,7 @@ Some R packages I developed:
 
 **R Shiny**
 - [reactRouter](https://felixluginbuhl.com/reactRouter/): share url pages using ‘React Router’ in ‘shiny’ and ‘Quarto’ 
-- [shinyMaterialUI](https://felixluginbuhl.com/shinyMaterialUI/): an R wrapper around Material UI, the popular React framework.
+- [muiMaterial](https://felixluginbuhl.com/muiMaterial/): an R wrapper around Material UI React library from MUI.
 - [aos](https://felixluginbuhl.com/aos/): animate on Scroll Library for Shiny.
 - [aniview](https://felixluginbuhl.com/aniview/): animate Shiny content when it comes into view
 - [scroller](https://felixluginbuhl.com/scroller/): Scroll to any element in your Shiny apps 
