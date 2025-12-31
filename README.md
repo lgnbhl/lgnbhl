@@ -1,4 +1,4 @@
-I'm Félix, an R developer and data scientist. I build tools and apps to automate data analysis, share insights and improve decision making.
+I'm Félix, an R developer and data scientist.
 
 Some R packages I developed:
 
