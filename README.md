@@ -1,6 +1,6 @@
 I'm Félix, an R developer and data scientist.
 
-Some R packages I developed:
+My R packages mostly focus on improving user experience in R Shiny and easing access to Swiss statistics from R.
 
 **R Shiny**
 - [reactRouter](https://felixluginbuhl.com/reactRouter/): use ‘React Router’ to provide multi-page navigation without a server in ‘shiny’ and ‘Quarto’
