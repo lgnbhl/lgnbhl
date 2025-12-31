@@ -3,9 +3,9 @@ I'm Félix, an R developer and data scientist. I build tools and apps to automat
 Some R packages I developed:
 
 **R Shiny**
-- [reactRouter](https://felixluginbuhl.com/reactRouter/): share url pages using ‘React Router’ in ‘shiny’ and ‘Quarto’
-- [muiMaterial](https://felixluginbuhl.com/muiMaterial/): use MUI Material UI React library from R
-- [muiTreeView](https://felixluginbuhl.com/muiTreeView/): use MUI X Tree View React components from R
+- [reactRouter](https://felixluginbuhl.com/reactRouter/): use ‘React Router’ to provide multi-page navigation without a server in ‘shiny’ and ‘Quarto’
+- [muiMaterial](https://felixluginbuhl.com/muiMaterial/): use the popular ‘Material UI (MUI)’ React components from R
+- [muiTreeView](https://felixluginbuhl.com/muiTreeView/): use ‘MUI X Tree View’ React components from R
 - [aos](https://felixluginbuhl.com/aos/): animate on Scroll Library for Shiny.
 - [aniview](https://felixluginbuhl.com/aniview/): animate Shiny content when it comes into view
 - [scroller](https://felixluginbuhl.com/scroller/): Scroll to any element in your Shiny apps 
