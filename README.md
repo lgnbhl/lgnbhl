@@ -6,7 +6,7 @@ My R packages mostly focus on improving user experience in R Shiny and easing ac
 - [reactRouter](https://felixluginbuhl.com/reactRouter/): use ‘React Router’ to provide multi-page navigation without a server in R Shiny and Quarto
 - [muiMaterial](https://felixluginbuhl.com/muiMaterial/): use the popular ‘Material UI (MUI)’ React components in R
 - [muiTreeView](https://felixluginbuhl.com/muiTreeView/): use ‘MUI X Tree View’ React components in R
-  [muiCharts](https://felixluginbuhl.com/muiCharts/): use ‘MUI X Charts’ React components in R
+- [muiCharts](https://felixluginbuhl.com/muiCharts/): use ‘MUI X Charts’ React components in R
 - [aos](https://felixluginbuhl.com/aos/): use ‘Animate On Scroll’ JS library in R Shiny and Quarto
 - [aniview](https://felixluginbuhl.com/aniview/): use ‘AniView’ jQuery library to animate HTML content when it comes into view with R
 - [scroller](https://felixluginbuhl.com/scroller/): Scroll to any element in your Shiny apps 
